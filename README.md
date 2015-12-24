@@ -1,16 +1,15 @@
-# Fibonacci Generator
+# Fibonacci Generator [![Build Status](https://travis-ci.org/tomsta93/fibonacci-generator.png)](https://travis-ci.org/tomsta93/fibonacci-generator)
 Generate fibonacci numbers
 
-## Use
-Install the command line tool
+## Install
 
 `npm i -g fibonacci-generator`
 
-Then run: `fibonacci-generator ${number}`
+## Use
+
+`fibonacci-generator ${number}`
 
 Example: `fibonacci-generator 10`
-
-**The ${number} equals any integer e.g. 20**
 
 ## License
 
