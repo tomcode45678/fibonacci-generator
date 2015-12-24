@@ -2,12 +2,13 @@
 Generate fibonacci numbers
 
 ## Use
-**NPM module coming soon**
+Install the command line tool
 
-* Make sure you have node installed
-* Clone the repo
-* If not already cd to the repo
-* Run `node fibonacci.js ${number}`
+`npm i -g fibonacci-generator`
+
+Then run: `fibonacci-generator ${number}`
+
+Example: `fibonacci-generator 10`
 
 **The ${number} equals any integer e.g. 20**
 
