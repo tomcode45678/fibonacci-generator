@@ -1,0 +1,25 @@
+{
+  "name": "fibonacci-generator",
+  "version": "0.1.0",
+  "description": "Generate fibonacci numbers",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fibonacci",
+    "Generator",
+    "Generate",
+    "Sequence"
+  ],
+  "author": "Thomas Stapleton (github.com/tomsta93)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomsta93/fibonacci-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomsta93/fibonacci-generator/issues"
+  },
+  "homepage": "https://github.com/tomsta93/fibonacci-generator#readme"
+}
