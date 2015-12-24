@@ -1,4 +1,4 @@
-# Fibonacci Generator [![Build Status](https://travis-ci.org/tomsta93/fibonacci-generator.png)](https://travis-ci.org/tomsta93/fibonacci-generator)
+# Fibonacci Generator [![Build Status](https://travis-ci.org/tomsta93/fibonacci-generator.svg?branch=master)](https://travis-ci.org/tomsta93/fibonacci-generator)
 Generate fibonacci numbers
 
 ## Install
