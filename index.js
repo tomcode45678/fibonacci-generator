@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 'use strict';
 
 var GENERATE_TO = process.argv.slice(2);
