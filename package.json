@@ -1,6 +1,6 @@
 {
   "name": "fibonacci-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate fibonacci numbers",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
     "lint": "jshint . -c .jshintrc"
   },
   "keywords": [
-    "Fibonacci",
-    "Generator",
-    "Generate",
-    "Sequence"
+    "fibonacci",
+    "sequence",
+    "generator",
+    "generate"
   ],
   "author": "Thomas Stapleton (github.com/tomsta93)",
   "license": "MIT",
